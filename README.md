@@ -22,8 +22,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/C%23-fedcba?style=flat-square&logoColor=violet&logoSize=auto&labelColor=abcdef&color=abcdef&cacheSeconds=3600&link=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3D55251%26format%3Dpng%26color%3D000000)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-fedcba?style=flat-square&logoColor=violet&logoSize=auto&labelColor=abcdef&color=abcdef&cacheSeconds=3600&link=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3D55251%26format%3Dpng%26color%3D000000)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=data)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
