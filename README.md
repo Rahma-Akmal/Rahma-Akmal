@@ -15,7 +15,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaalselim&show_icons=true&locale=en&layout=compact" alt="rahmaakmal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahma-Akmal&show_icons=true&locale=en&layout=compact" alt="rahmaakmal" /></p>
 
 
 ### 🛠 &nbsp;Tech Stack
