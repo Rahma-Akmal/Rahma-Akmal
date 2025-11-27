@@ -11,8 +11,7 @@
 <a href="https://linkedin.com/in/rahma-akmal-bb9aa4277/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahma akmal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rahma.akmal.126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rahma Akmal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Rahma74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rahma Akmal" height="30" width="40" /></a>
-</p>
+
 
 
 ### 🛠 &nbsp;Tech Stack
